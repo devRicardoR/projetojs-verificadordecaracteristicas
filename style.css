@@ -1,0 +1,32 @@
+body{
+background: rgb(141, 139, 43);
+font: normal 15pt Arial;
+
+}
+
+header {
+color: rgb(255, 255, 255);
+text-align: center;
+}
+
+.imagem-persona {
+    width: 250px; /* Define a largura desejada para todas as imagens */
+    height: 200px; /* Define a altura automática para manter a proporção da imagem */
+}
+
+section{
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.527);
+
+}
+
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+}
+
